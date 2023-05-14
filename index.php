@@ -3,6 +3,6 @@
     <head>
     </head>
     <body>
-        <a href="http://localhost/form/ind.php">ENTER</a>
+        <a href="./ind.php">ENTER</a>
     </body>
 </html>
